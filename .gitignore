@@ -1,0 +1,10 @@
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Contenido generado por WordPress automáticamente
+wp-content/
+
+# Sistema
+.DS_Store
